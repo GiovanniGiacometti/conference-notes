@@ -1,5 +1,6 @@
-
 https://2025.pycon.it/en/event/build-deploy-monetize-the-future-of-the-developer-economy
+
+Speaker: [Saurav Jain](https://www.linkedin.com/in/sauain/)
 
 Why is it difficult to monetize:
 
