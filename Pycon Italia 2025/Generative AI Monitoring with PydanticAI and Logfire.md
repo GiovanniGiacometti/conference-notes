@@ -1,6 +1,10 @@
+# Generative AI Monitoring with PydanticAI and Logfire
+
 https://2025.pycon.it/en/event/logfire-ai
 
 Speaker: [Marcelo Trylesinski](https://www.linkedin.com/in/marcelotryle)
+
+---
 
 [PydanticAI](https://ai.pydantic.dev/)
 

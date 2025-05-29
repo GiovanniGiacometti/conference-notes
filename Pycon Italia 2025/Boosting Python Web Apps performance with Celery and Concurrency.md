@@ -1,6 +1,10 @@
+# Boosting Python Web Apps performance with Celery and Concurrency
+
 https://2025.pycon.it/en/event/boosting-python-web-apps-performance-with-celery-and-concurrency
 
 Speaker: Yash Raj
+
+---
 
 Web frameworks:
 
